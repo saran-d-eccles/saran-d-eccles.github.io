@@ -66,7 +66,7 @@ var imgUrls = ['../photos/',
                
                
 
-var descArray = ["",
+var descArray = ["First drawing",
               "",
               "",
               "",
